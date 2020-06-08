@@ -20,6 +20,7 @@ class CashRegister
       return "After the discount, thte toatla comes to @total."
     else
       return "There is no discount to apply."
+    end
   end
 
 
